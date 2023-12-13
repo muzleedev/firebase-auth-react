@@ -1,0 +1,16 @@
+:root {
+    --chakra-shadows-outline: '' !important;
+}
+
+html {
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+}
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
